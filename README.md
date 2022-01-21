@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lunispang
 - 👀 I’m interested in hacking/ethical hacking/efficiency,
-- 🌱 I’m currently learning C/C++,
+- 🌱 I’m currently working on a game called Split,
 - 💞️ I’m looking to collaborate on nothing for the moment,
 - 📫 How to reach me at my account: lunispang#9750 on discord
 
