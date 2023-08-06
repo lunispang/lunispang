@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lunispang
 - 👀 I’m interested in game dev,
-- 🌱 I’m currently working on a game called Split,
+- 🌱 I’m currently working on a terraria mod called The Skeletron Mod,
 - 💞️ I’m looking to collaborate on nothing for the moment,
 - 📫 How to reach me at my account: lunispang#9750 on discord
 
