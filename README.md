@@ -1,6 +1,6 @@
 # Hi, I’m lunispang
 
-- I’m interested in game dev and learning new things.
+I’m interested in game dev and learning new things.
 
 I’m currently learning rust for fun, and I have made 2 projects in it so far;
 
