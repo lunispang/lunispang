@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @lunispang
-- 👀 I’m interested in game dev,
-- 🌱 I’m currently learning C++,
-- 💞️ I’m looking to collaborate on nothing for the moment,
-- 📫 How to reach me at my account: lunispang on discord
+# Hi, I’m lunispang
 
-<!---
-lunispang/lunispang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I’m interested in game dev and learning new things.
+
+I’m currently learning rust for fun, and I have made 2 projects in it so far;
+
+- [tic tac toe in rust](https://github.com/lunispang/tic-tac-toe-rust)
+  
+- [snake game in rust](https://github.com/lunispang/rusty-snake)
+
+If you want to contact me for any reason, you can reach me at @lunispang on Discord.
